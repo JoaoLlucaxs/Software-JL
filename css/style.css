@@ -1,0 +1,15 @@
+@import './global/header.css';
+@import './global/global.css';
+@import './utilidades/tipografias.css';
+@import './utilidades/cores.css';
+@import './home/introducao.css';
+@import './webproject/web.css';
+@import './utilidades/componentes.css';
+@import './lista/conteudos.css';
+@import './lista/lista.css';
+@import './home/sobre.css';
+@import './utilidades/alert.css';
+@import './servico/servico.css';
+@import './footer/footer.css';
+
+
