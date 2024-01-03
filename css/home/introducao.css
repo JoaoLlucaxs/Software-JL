@@ -5,8 +5,8 @@
 .introducao{
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 0px 40px;
-    background-color: #000;
+    gap: 10px 40px;
+    background-color: #000000;
    /* box-sizing: border-box;
     max-width: 1200px;
     padding-left: 20px;
@@ -24,8 +24,9 @@
     border-radius: 4px;
 }
 .introducao_conteudo{
-    align-self: end;
-    padding-bottom: 200px;
+    align-self: center;
+    padding-bottom: 100px;
+    text-align: center;
 }
 .introducao_imagem{
     margin-bottom: -120px;
